@@ -98,7 +98,7 @@
 
 # 📊 GitHub Stats:
 
-<a href="http://www.github.com/primsajun"><img src="https://github-readme-stats.vercel.app/api?username=michal-nithesh&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Prim Sajun's GitHub stats" /></a>
+<a href="http://www.github.com/primsajun"><img src="https://github-readme-stats.vercel.app/api?username=primsajun&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Prim Sajun's GitHub stats" /></a>
 
 <a href="http://www.github.com/primsajun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michal-nithesh&stroke=a855f7&background=000000&ring=22c55e&fire=22c55e&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
