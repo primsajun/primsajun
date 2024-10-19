@@ -1,20 +1,34 @@
-<h1 align="center">Hi 👋, I'm Prim sajun </h1>
+
+<h1 align="center">Hi 👋, I'm Prim Sajun </h1>
+
 [![](https://visitcount.itsvg.in/api?id=nithesh14&icon=2&color=11)](https://visitcount.itsvg.in)
-<h2 align="left">I'm from kanniyakumari</h2>
+
+<h2 align="left">I'm from Nagercoil</h2>
+
 ## Fun Fact 🎈:
+
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
-<br>- 🔭 <b>Web developer<b><br>  - 📫 How to reach me <b>primsajunp.cs22@stellamaryscoe.edu.in<b><br>- 📚 I'm currently learning <b>JavaScript<b><br>- 🖥️  See my portfolio at <b>[CLICK MEE...](http://primsajun.github.io)<b></p><br>
+
+
+<br>- 🔭 <b>Web developer<b><br>  - 📫 How to reach me <b>primsajunp.cs22@stellamaryscoe.edu.in<b><br>- 📚 I'm currently learning <b>JavaScript<b><br>- 🖥️  See my portfolio at <b>[CLICK MEE...](http://primsajun.github.io)<b></p><br>
+
 ###
+
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=primsajun&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 <div align="center">
   <img height="150" src="https://logodownload.org/wp-content/uploads/2019/08/github-logo-2.png"  />
 </div>
+
 ###
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 ## 🖥️ Skills:
 ```Good and wanted to be good at✨```
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -66,19 +80,31 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
+
 ###
+
 <h2 align="left">🌐 Connect with me:</h2><br>
+
 <p align="left"> 
   <a href="https://www.github.com/primsajun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-  <a href="http://www.instagram.com/primsajun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/primsajun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="http://www.instagram.com/sajunnnnnn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/prim-sajun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://www.twitter.com/primsajun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
-  <a href="https://www.twitch.tv/primsajun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+  <a href="https://www.twitch.tv/michalnithesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
   <a href="https://www.hashnode.com/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a></p>
+
+
 ###
+
 # 📊 GitHub Stats:
-<a href="http://www.github.com/primsajun"><img src="https://github-readme-stats.vercel.app/api?username=primsajun&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Prim sajun's GitHub stats" /></a>
-<a href="http://www.github.com/primsajun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michal-nithesh&stroke=a855f7&background=000000&ring=22c55e&fire=22c55e&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+
+<a href="http://www.github.com/primsajun"><img src="https://github-readme-stats.vercel.app/api?username=primsajun&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Michal Nithesh's GitHub stats" /></a>
+
+<a href="http://www.github.com/primsajun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=primsajun&stroke=a855f7&background=000000&ring=22c55e&fire=22c55e&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+
 <a href="http://www.github.com/primsajun"><img src="https://github-readme-activity-graph.vercel.app/graph?username=michal-nithesh&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/primsajun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michal-nithesh&langs_count=10&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://github.com/primsajun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=primsajun&langs_count=10&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
 ###
