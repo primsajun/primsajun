@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=nithesh14&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<h2 align="left">I'm from Nagercoil</h2>
+<h2 align="left">I'm from India</h2>
 
 ## Fun Fact 🎈:
 
