@@ -114,7 +114,7 @@
 <a href="https://github.com/primsajun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=primsajun&langs_count=10&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<--! <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
 
 
 <p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p>
