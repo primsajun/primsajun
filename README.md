@@ -102,7 +102,6 @@
 <a href="http://www.github.com/primsajun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=primsajun&stroke=a855f7&background=FFFFFF&ring=FF0000&fire=FF0000&currStreakNum=FF0000&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a> 
 
 
-[![primsajun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=primsajun&bg_color=0000&color=ffff&line=0FFF50&point=0FFF50&area=true&hide_border=true)](https://github.com/primsajun)
 ###
 
 <picture>
